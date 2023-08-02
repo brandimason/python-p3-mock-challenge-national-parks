@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import ipdb
+# import ipdb
 
 from classes.national_park import NationalPark
 from classes.visitor import Visitor
